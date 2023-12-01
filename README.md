@@ -67,7 +67,7 @@ Criterios de evaluación
     
     ○ Responsive funciona correctamente
 
-
+![Alt text](aguirre-carolina-ada-desarrollo-frontend-certificado.png)
 ![Alt text](Aguirre_Carolina-1.png)
 
 
