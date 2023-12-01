@@ -6,13 +6,21 @@
 ¡Hola Caro! Antes de darte la nota quiero hacer un par de menciones:
 
 1-Los colores tienen un contraste adecuado.
+
 2-la página tiene la información correspondiente.
+
 3-Cuenta con etiquetas para redes sociales.
+
 4-La página tiene una semántica correcta.
+
 5-Cumple con criterios de deployado.
+
 6-Código bien indentado.
+
 7-Estructura correcta del documento HTML.
+
 8-El uso de API es correcto.
+
 
 Bueno Caro primero quiero decir que tu proyecto es genial, tengo que recalcar el buen uso de la media y de lo bien declaradas que están las variables, la indentación es perfecta demostrando un proyecto hermoso de ver, sin más NOTA FINAL (10) Diez.
 
